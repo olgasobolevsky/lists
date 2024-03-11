@@ -1,0 +1,2018 @@
+{
+  "type": "acl",
+  "name": "Cloud Platforms",
+  "id": "my-rbz-cloud-platforms",
+  "_id": "my-2",
+  "active": true,
+  "mdate": "2023-05-08 14:30:15.271641",
+  "source": "https://storage.googleapis.com/rbz-test-auto-acl/acls_v2/rbz-cloud-platforms.json",
+  "notes": "Communication from cloud platfroms and VPS providers",
+  "entries_relation": "OR",
+  "tags": [
+    "reblaze",
+    "cloud-platforms",
+    "cloud"
+  ],
+  "entries": [
+    [
+      "asn",
+      "^45090$",
+      "1.12.0.0/20-Tencent cloud computing"
+    ],
+    [
+      "asn",
+      "^132203$",
+      "1.201.184.0/22-Tencent cloud computing"
+    ],
+    [
+      "asn",
+      "^399471$",
+      "2.56.56.0/23-As-serverion"
+    ],
+    [
+      "asn",
+      "^40065$",
+      "2.56.255.0/24-Cnservers LLC"
+    ],
+    [
+      "asn",
+      "^207633$",
+      "2.59.181.0/24-Bogahost Bilisim ve Telekomunikasyon Hiz. San. ve"
+    ],
+    [
+      "asn",
+      "^209723$",
+      "2.59.200.0/23-Expert Netcloud Llp"
+    ],
+    [
+      "asn",
+      "^209155$",
+      "2.59.220.0/22-Onehostplanet s.r.o."
+    ],
+    [
+      "asn",
+      "^207279$",
+      "2.59.253.0/24-Markahost Telekomunikasyon Ve Ticaret Limited Sirk"
+    ],
+    [
+      "asn",
+      "^35277$",
+      "5.8.44.0/22-Llhost Inc. Srl"
+    ],
+    [
+      "asn",
+      "^16276$",
+      "5.39.103.96/27-Galkahost"
+    ],
+    [
+      "asn",
+      "^31673$",
+      "5.39.168.0/21-Uniserver Internet B.V."
+    ],
+    [
+      "asn",
+      "^208555$",
+      "5.56.132.0/24-Dade Pardazi Mobinhost Co LTD"
+    ],
+    [
+      "asn",
+      "^200296$",
+      "5.56.135.0/24-servervds llc"
+    ],
+    [
+      "asn",
+      "^64398$",
+      "5.83.45.0/24-Nxtservers Srl"
+    ],
+    [
+      "asn",
+      "^59414$",
+      "5.102.144.0/21-cloudscale.ch AG"
+    ],
+    [
+      "asn",
+      "^199990$",
+      "5.158.192.0/21-Localhost"
+    ],
+    [
+      "asn",
+      "^56987$",
+      "5.180.57.0/24-Abaclouda SAS"
+    ],
+    [
+      "asn",
+      "^205124$",
+      "5.180.112.0/22-Telehost SRL"
+    ],
+    [
+      "asn",
+      "^27614$",
+      "8.2.71.0/24-Elderhostel"
+    ],
+    [
+      "asn",
+      "^400494$",
+      "8.19.55.0/24-Cirrascale-cloud-01"
+    ],
+    [
+      "asn",
+      "^13955$",
+      "8.19.78.0/24-Echostar Broadcasting Corporation"
+    ],
+    [
+      "asn",
+      "^62994$",
+      "8.23.54.0/24-Lcloud-vt"
+    ],
+    [
+      "asn",
+      "^40803$",
+      "8.38.122.0/24-Knownwebhosting"
+    ],
+    [
+      "asn",
+      "^397926$",
+      "12.205.176.0/24-Ccc-hosting-01"
+    ],
+    [
+      "asn",
+      "^200019$",
+      "14.102.228.0/22-Colocation America Corporation"
+    ],
+    [
+      "asn",
+      "^400636$",
+      "23.26.232.0/24-Stm-cloud-01"
+    ],
+    [
+      "asn",
+      "^135377$",
+      "23.91.96.0/23-Ucloud Information Technology Hk Limited"
+    ],
+    [
+      "asn",
+      "^965$",
+      "23.129.252.0/22-Webhostingholdings"
+    ],
+    [
+      "asn",
+      "^400474$",
+      "23.132.168.0/24-Ghostfiber"
+    ],
+    [
+      "asn",
+      "^62853$",
+      "23.133.8.0/24-Pfcloud"
+    ],
+    [
+      "asn",
+      "^399244$",
+      "23.139.82.0/24-Bloom-host"
+    ],
+    [
+      "asn",
+      "^47062$",
+      "23.140.82.0/24-Webiohost-arin-as-01"
+    ],
+    [
+      "asn",
+      "^400759$",
+      "23.141.200.0/24-American-cloud-01"
+    ],
+    [
+      "asn",
+      "^396101$",
+      "23.157.128.0/24-Netcloud Services"
+    ],
+    [
+      "asn",
+      "^398328$",
+      "23.160.208.0/24-Localhost-llc"
+    ],
+    [
+      "asn",
+      "^395512$",
+      "23.161.0.0/23-Globalhostingsolutions"
+    ],
+    [
+      "asn",
+      "^398567$",
+      "23.162.80.0/24-Lighting-ready-hosting-llc"
+    ],
+    [
+      "asn",
+      "^210907$",
+      "23.174.80.0/24-Steadcloud B.V."
+    ],
+    [
+      "asn",
+      "^399517$",
+      "23.178.240.0/24-Mc-server-hosting"
+    ],
+    [
+      "asn",
+      "^27597$",
+      "23.180.144.0/24-Siteserver"
+    ],
+    [
+      "asn",
+      "^136800$",
+      "23.235.160.0/23-MOACK.Co.LTD"
+    ],
+    [
+      "asn",
+      "^174$",
+      "23.237.0.0/16-Fdcservers"
+    ],
+    [
+      "asn",
+      "^8881$",
+      "24.40.128.0/18-Versatel Deutschland"
+    ],
+    [
+      "asn",
+      "^2114$",
+      "31.3.112.0/21-Escuelas De Estudios Superiores Esic Sacerdotes De"
+    ],
+    [
+      "asn",
+      "^201401$",
+      "31.14.11.0/24-Unithost Internet B.V."
+    ],
+    [
+      "asn",
+      "^48024$",
+      "31.22.104.0/22-Nerocloud Ltd"
+    ],
+    [
+      "asn",
+      "^398826$",
+      "31.22.108.0/22-Olink-cloud"
+    ],
+    [
+      "asn",
+      "^197746$",
+      "31.22.112.0/22-hyperhosting"
+    ],
+    [
+      "asn",
+      "^44493$",
+      "31.192.232.0/24-profitserver"
+    ],
+    [
+      "asn",
+      "^203822$",
+      "31.207.48.0/22-MKBWebhoster BV"
+    ],
+    [
+      "asn",
+      "^197071$",
+      "31.214.149.0/24-active-servers.com"
+    ],
+    [
+      "asn",
+      "^30823$",
+      "31.214.245.0/24-combahton GmbH"
+    ],
+    [
+      "asn",
+      "^35826$",
+      "37.1.96.0/22-Netservers Limited"
+    ],
+    [
+      "asn",
+      "^200548$",
+      "37.16.92.0/22-webhoster.de AG"
+    ],
+    [
+      "asn",
+      "^41655$",
+      "37.153.80.0/22-Netcloud AG"
+    ],
+    [
+      "asn",
+      "^47172$",
+      "37.218.240.0/24-Greenhost BV"
+    ],
+    [
+      "asn",
+      "^209829$",
+      "37.218.241.0/24-Greenhost BV"
+    ],
+    [
+      "asn",
+      "^204035$",
+      "37.228.132.0/25-myVirtualserver"
+    ],
+    [
+      "asn",
+      "^34432$",
+      "37.228.157.0/24-Profihost GmbH"
+    ],
+    [
+      "asn",
+      "^210226$",
+      "37.230.128.0/23-CityLink ISP"
+    ],
+    [
+      "asn",
+      "^52511$",
+      "38.7.216.0/23-Ironservers E.i.r.l"
+    ],
+    [
+      "asn",
+      "^395111$",
+      "38.20.96.0/21-Kvchosting.com LLC"
+    ],
+    [
+      "asn",
+      "^149641$",
+      "38.47.48.0/24-Xcloud Technology Limited"
+    ],
+    [
+      "asn",
+      "^140227$",
+      "38.47.192.0/19-Starcloud"
+    ],
+    [
+      "asn",
+      "^140224$",
+      "38.47.224.0/22-Starcloud Global Pte."
+    ],
+    [
+      "asn",
+      "^55020$",
+      "38.55.201.0/24-IDC Cloud"
+    ],
+    [
+      "asn",
+      "^58931$",
+      "38.55.212.0/23-24.hk global BGP"
+    ],
+    [
+      "asn",
+      "^400137$",
+      "38.79.130.0/23-Cozycloud"
+    ],
+    [
+      "asn",
+      "^138571$",
+      "38.84.168.0/21-Superclouds Limited"
+    ],
+    [
+      "asn",
+      "^63051$",
+      "38.96.248.0/22-Criticalhosting-usa"
+    ],
+    [
+      "asn",
+      "^27229$",
+      "38.107.84.0/22-Webhosting.Net"
+    ],
+    [
+      "asn",
+      "^200904$",
+      "38.130.75.0/24-Foxcloud Llp"
+    ],
+    [
+      "asn",
+      "^263237$",
+      "38.131.8.0/24-Powerhost IX-METRO"
+    ],
+    [
+      "asn",
+      "^399654$",
+      "38.133.146.0/24-Avx-cloud"
+    ],
+    [
+      "asn",
+      "^396509$",
+      "38.143.68.0/22-Letscloud"
+    ],
+    [
+      "asn",
+      "^139659$",
+      "38.147.170.0/23-Lucidacloud Limited"
+    ],
+    [
+      "asn",
+      "^203345$",
+      "41.71.140.0/22-NL hosting solutions"
+    ],
+    [
+      "asn",
+      "^37611$",
+      "41.76.208.0/21-Afrihost"
+    ],
+    [
+      "asn",
+      "^37075$",
+      "41.223.87.0/24-Used in the GRX cloud for Airtel Uganda for mobile"
+    ],
+    [
+      "asn",
+      "^63737$",
+      "42.96.10.0/23-Vietserver Services Technology Company Limited"
+    ],
+    [
+      "asn",
+      "^204303$",
+      "45.8.4.0/22-Fibrasur Operadores S.L."
+    ],
+    [
+      "asn",
+      "^211804$",
+      "45.8.191.0/24-Sistemdc webhosting and server services"
+    ],
+    [
+      "asn",
+      "^57752$",
+      "45.10.45.0/24-Normhost SAS"
+    ],
+    [
+      "asn",
+      "^197395$",
+      "45.10.132.0/22-HostGhost B.V."
+    ],
+    [
+      "asn",
+      "^34679$",
+      "45.14.237.0/24-X-host-communication-srl"
+    ],
+    [
+      "asn",
+      "^42675$",
+      "45.15.16.0/24-Obehosting AB"
+    ],
+    [
+      "asn",
+      "^399502$",
+      "45.41.44.0/24-Valuehosted"
+    ],
+    [
+      "asn",
+      "^400298$",
+      "45.59.168.0/24-Madcityservers-llc"
+    ],
+    [
+      "asn",
+      "^209805$",
+      "45.67.32.0/24-Sbcloud LLC"
+    ],
+    [
+      "asn",
+      "^271860$",
+      "45.71.32.0/23-Novacloud S.a.c"
+    ],
+    [
+      "asn",
+      "^267655$",
+      "45.71.107.0/24-Travelhost Datacenters e Servicos de Internet LTDA"
+    ],
+    [
+      "asn",
+      "^208898$",
+      "45.80.132.0/22-Superhosting doo"
+    ],
+    [
+      "asn",
+      "^32338$",
+      "45.84.28.0/23-Hostiserver"
+    ],
+    [
+      "asn",
+      "^209641$",
+      "45.89.66.0/23-I-servers Ltd"
+    ],
+    [
+      "asn",
+      "^35278$",
+      "45.91.8.0/24-Sprinthost.ru LLC"
+    ],
+    [
+      "asn",
+      "^63959$",
+      "45.113.32.0/24-Hong Kong Syscloud Technology Limited"
+    ],
+    [
+      "asn",
+      "^135920$",
+      "45.123.96.0/23-Ehost software company limited"
+    ],
+    [
+      "asn",
+      "^208440$",
+      "45.129.96.0/24-GmhostGrupp OU"
+    ],
+    [
+      "asn",
+      "^207143$",
+      "45.131.254.0/24-hosttech GmbH"
+    ],
+    [
+      "asn",
+      "^207569$",
+      "45.133.245.0/24-I-servers Ltd"
+    ],
+    [
+      "asn",
+      "^208450$",
+      "45.136.56.0/22-Megahost Kazakhstan TOO"
+    ],
+    [
+      "asn",
+      "^44901$",
+      "45.137.220.0/23-Belcloud LTD"
+    ],
+    [
+      "asn",
+      "^208393$",
+      "45.141.52.0/24-Dedcloud Network Ltd"
+    ],
+    [
+      "asn",
+      "^212508$",
+      "45.141.57.0/24-Lowhosting services of Davide Gennari"
+    ],
+    [
+      "asn",
+      "^203394$",
+      "45.142.211.0/24-Hostiko"
+    ],
+    [
+      "asn",
+      "^49791$",
+      "45.144.48.0/22-Newserverlife LLC"
+    ],
+    [
+      "asn",
+      "^205668$",
+      "45.148.168.0/22-Green Mini host BV"
+    ],
+    [
+      "asn",
+      "^208278$",
+      "45.149.86.0/23-Omniclouds Computer Systems & Communication Equipm"
+    ],
+    [
+      "asn",
+      "^61102$",
+      "45.150.108.0/24-Interhost Communication Solutions Ltd."
+    ],
+    [
+      "asn",
+      "^56971$",
+      "45.152.84.0/24-PE Fedinyak Sergey Vyacheslavovich (gohost.kz)"
+    ],
+    [
+      "asn",
+      "^200698$",
+      "45.156.248.0/22-Globalhost d.o.o."
+    ],
+    [
+      "asn",
+      "^266878$",
+      "45.160.72.0/22-Besthost Spa"
+    ],
+    [
+      "asn",
+      "^267710$",
+      "45.165.36.0/22-Webhosting S.r.l."
+    ],
+    [
+      "asn",
+      "^267881$",
+      "45.177.124.0/22-Saoredes Cia. Ltda. Saohosting"
+    ],
+    [
+      "asn",
+      "^269296$",
+      "45.183.130.0/24-Oncloud Tecnologia Ltda"
+    ],
+    [
+      "asn",
+      "^269353$",
+      "45.184.32.0/22-Volarehost Internet Ltda Me"
+    ],
+    [
+      "asn",
+      "^59728$",
+      "45.195.79.0/24-Stephost Srl"
+    ],
+    [
+      "asn",
+      "^267637$",
+      "45.224.36.0/22-Tecnoserver Telecom EIRELI"
+    ],
+    [
+      "asn",
+      "^267784$",
+      "45.227.252.0/24-Flyservers S.A."
+    ],
+    [
+      "asn",
+      "^268208$",
+      "45.235.244.0/22-2cloud Informatica Ltda Epp"
+    ],
+    [
+      "asn",
+      "^266795$",
+      "45.236.88.0/22-Empirehost Limitada"
+    ],
+    [
+      "asn",
+      "^64111$",
+      "45.236.128.0/22-Informatica Bluehosting Limitada"
+    ],
+    [
+      "asn",
+      "^266855$",
+      "45.239.108.0/22-Ecohosting Internet Limitada"
+    ],
+    [
+      "asn",
+      "^46664$",
+      "45.249.91.0/24-Sunnyvision"
+    ],
+    [
+      "asn",
+      "^207636$",
+      "46.3.8.0/21-Alexhost S.r.l."
+    ],
+    [
+      "asn",
+      "^209372$",
+      "46.3.136.0/22-Alexhost S.r.l."
+    ],
+    [
+      "asn",
+      "^206275$",
+      "46.37.113.0/24-Flaminghost Srl"
+    ],
+    [
+      "asn",
+      "^39756$",
+      "46.102.248.0/24-Easyhost Srl"
+    ],
+    [
+      "asn",
+      "^30058$",
+      "50.7.1.0/24-Fdcservers"
+    ],
+    [
+      "asn",
+      "^8560$",
+      "50.21.176.0/20-1&1 Internet AG"
+    ],
+    [
+      "asn",
+      "^25773$",
+      "50.31.132.0/24-Radware-cloud-services"
+    ],
+    [
+      "asn",
+      "^134700$",
+      "58.84.6.0/23-Sinoycloud Limited"
+    ],
+    [
+      "asn",
+      "^29132$",
+      "62.220.244.0/22-Easylinehost Finland Oy"
+    ],
+    [
+      "asn",
+      "^12180$",
+      "63.250.0.0/23-Internap Corporation"
+    ],
+    [
+      "asn",
+      "^19318$",
+      "64.20.32.0/24-Interserver"
+    ],
+    [
+      "asn",
+      "^26863$",
+      "64.40.8.0/23-Gameserverkings"
+    ],
+    [
+      "asn",
+      "^36231$",
+      "64.52.81.0/24-Tempest-hosting"
+    ],
+    [
+      "asn",
+      "^398367$",
+      "64.66.240.0/23-Quic-cloud"
+    ],
+    [
+      "asn",
+      "^14618$",
+      "64.71.238.0/24-Amazon.com"
+    ],
+    [
+      "asn",
+      "^26277$",
+      "64.235.34.0/32-ServerPoint/ColossusCloud/Aplushosting"
+    ],
+    [
+      "asn",
+      "^48851$",
+      "66.22.40.0/22-Radware-cloud-services"
+    ],
+    [
+      "asn",
+      "^46186$",
+      "66.22.47.0/24-Gilead Sciences"
+    ],
+    [
+      "asn",
+      "^3216$",
+      "66.90.90.0/23-Fdcservers"
+    ],
+    [
+      "asn",
+      "^141518$",
+      "66.154.14.0/24-Subhosting Innovations Pvt"
+    ],
+    [
+      "asn",
+      "^40438$",
+      "66.209.176.0/20-Canhost"
+    ],
+    [
+      "asn",
+      "^4892$",
+      "69.90.208.0/24-Applieduk-cloud-04"
+    ],
+    [
+      "asn",
+      "^53332$",
+      "74.122.168.0/23-C2hosting-01"
+    ],
+    [
+      "asn",
+      "^23354$",
+      "74.123.196.0/23-Echostar Purchasing Corporation"
+    ],
+    [
+      "asn",
+      "^54548$",
+      "74.208.38.0/23-1&1 Internet AG"
+    ],
+    [
+      "asn",
+      "^16003$",
+      "77.83.56.0/23-Proservers B.v."
+    ],
+    [
+      "asn",
+      "^42699$",
+      "77.220.224.0/20-managedhosting.de GmbH"
+    ],
+    [
+      "asn",
+      "^62310$",
+      "77.220.248.0/21-managedhosting.de GmbH"
+    ],
+    [
+      "asn",
+      "^28747$",
+      "77.241.95.0/24-Easyhost BVBA"
+    ],
+    [
+      "asn",
+      "^31590$",
+      "77.247.64.0/20-Rackhosting.com ApS"
+    ],
+    [
+      "asn",
+      "^39834$",
+      "79.173.0.0/18-Fiberhost S.A."
+    ],
+    [
+      "asn",
+      "^208091$",
+      "80.66.76.0/24-Xhost Internet Solutions Lp"
+    ],
+    [
+      "asn",
+      "^209559$",
+      "80.66.83.0/24-Xhost Internet Solutions Lp"
+    ],
+    [
+      "asn",
+      "^49581$",
+      "80.91.223.96/27-Redstarthosting"
+    ],
+    [
+      "asn",
+      "^397964$",
+      "80.208.252.0/23-Hyve-managed-hosting"
+    ],
+    [
+      "asn",
+      "^204196$",
+      "80.209.252.0/23-Abelohost BV"
+    ],
+    [
+      "asn",
+      "^201455$",
+      "80.243.123.0/24-any.cloud A/S"
+    ],
+    [
+      "asn",
+      "^41541$",
+      "81.25.112.0/20-sw hosting & communications technologies SL"
+    ],
+    [
+      "asn",
+      "^34895$",
+      "83.138.64.0/18-hostNET Medien GmbH"
+    ],
+    [
+      "asn",
+      "^25532$",
+      "83.222.0.0/23-LLC masterhost"
+    ],
+    [
+      "asn",
+      "^12479$",
+      "85.51.24.66/32-Egalan & Egahost Internet"
+    ],
+    [
+      "asn",
+      "^149457$",
+      "85.92.114.0/24-Angel cloud Limited"
+    ],
+    [
+      "asn",
+      "^44853$",
+      "86.105.182.0/24-Telehost SRL"
+    ],
+    [
+      "asn",
+      "^204544$",
+      "87.107.144.0/24-Dade Pardazi Mobinhost Co LTD"
+    ],
+    [
+      "asn",
+      "^44716$",
+      "87.225.128.0/17-D-hosting die Rackspace & Connectivity GmbH"
+    ],
+    [
+      "asn",
+      "^41047$",
+      "87.237.165.0/25-Intercloud Community Network"
+    ],
+    [
+      "asn",
+      "^33972$",
+      "87.242.66.0/24-LLC masterhost"
+    ],
+    [
+      "asn",
+      "^41635$",
+      "89.38.208.0/22-Livehosting Datacenter Srl"
+    ],
+    [
+      "asn",
+      "^21100$",
+      "91.90.192.0/24-Friendhosting LTD"
+    ],
+    [
+      "asn",
+      "^204957$",
+      "91.90.193.0/24-Friendhosting LTD"
+    ],
+    [
+      "asn",
+      "^41870$",
+      "91.132.61.0/24-Belcloud LTD"
+    ],
+    [
+      "asn",
+      "^47143$",
+      "91.192.116.0/22-Todayhost Limited"
+    ],
+    [
+      "asn",
+      "^42331$",
+      "91.206.30.0/23-PE Freehost"
+    ],
+    [
+      "asn",
+      "^211415$",
+      "91.206.208.0/28-Labixe.host"
+    ],
+    [
+      "asn",
+      "^44633$",
+      "91.206.226.0/23-LLC tanhost"
+    ],
+    [
+      "asn",
+      "^47577$",
+      "91.208.42.0/24-Righthosting Ltd"
+    ],
+    [
+      "asn",
+      "^200660$",
+      "91.208.243.0/24-Interhost LLP"
+    ],
+    [
+      "asn",
+      "^199098$",
+      "91.209.165.0/24-LLC tanhost"
+    ],
+    [
+      "asn",
+      "^59729$",
+      "91.210.166.0/23-Friendhosting LTD"
+    ],
+    [
+      "asn",
+      "^39566$",
+      "91.211.220.0/22-Smarthost sp. z o.o."
+    ],
+    [
+      "asn",
+      "^49468$",
+      "91.213.11.0/24-Magit'st Srl"
+    ],
+    [
+      "asn",
+      "^44094$",
+      "91.217.9.0/24-Webhost LLC"
+    ],
+    [
+      "asn",
+      "^196792$",
+      "91.217.98.0/24-Fiberhost S.A."
+    ],
+    [
+      "asn",
+      "^211895$",
+      "91.218.20.0/24-server-factory.com"
+    ],
+    [
+      "asn",
+      "^210579$",
+      "91.227.138.0/23-Rackhost Informatikai Zrt."
+    ],
+    [
+      "asn",
+      "^203897$",
+      "91.229.124.0/24-Content+cloud Limited"
+    ],
+    [
+      "asn",
+      "^34773$",
+      "91.233.121.0/24-Vhost Meremeta Ltd"
+    ],
+    [
+      "asn",
+      "^49720$",
+      "91.236.224.0/23-Gigacloud LLC"
+    ],
+    [
+      "asn",
+      "^60664$",
+      "92.43.50.0/23-x-ion GmbH"
+    ],
+    [
+      "asn",
+      "^50979$",
+      "92.118.148.0/24-Friendhosting LTD"
+    ],
+    [
+      "asn",
+      "^201630$",
+      "93.113.45.0/24-Qhoster Ltd."
+    ],
+    [
+      "asn",
+      "^212482$",
+      "94.232.45.0/24-Xhost Internet Solutions Lp"
+    ],
+    [
+      "asn",
+      "^34738$",
+      "94.247.84.0/24-Webhost Limited"
+    ],
+    [
+      "asn",
+      "^61196$",
+      "95.46.44.0/23-GMhost"
+    ],
+    [
+      "asn",
+      "^197168$",
+      "95.158.142.0/23-ASPhostBG Ltd"
+    ],
+    [
+      "asn",
+      "^50214$",
+      "95.181.152.9/32-yuni.hosting"
+    ],
+    [
+      "asn",
+      "^50415$",
+      "95.215.80.0/22-Ahosting a.s."
+    ],
+    [
+      "asn",
+      "^328989$",
+      "102.217.124.0/22-Smartcloud"
+    ],
+    [
+      "asn",
+      "^328853$",
+      "102.219.176.0/22-Oxahost"
+    ],
+    [
+      "asn",
+      "^328699$",
+      "102.222.104.0/22-cloud.mu"
+    ],
+    [
+      "asn",
+      "^131965$",
+      "103.3.0.0/22-Xserver"
+    ],
+    [
+      "asn",
+      "^140815$",
+      "103.6.248.0/23-Httvserver Technology Company Limited"
+    ],
+    [
+      "asn",
+      "^139337$",
+      "103.23.152.0/22-Ozhosting.com Pty"
+    ],
+    [
+      "asn",
+      "^7483$",
+      "103.24.52.0/22-Skycloud Computing co."
+    ],
+    [
+      "asn",
+      "^38894$",
+      "103.26.88.0/22-manageNET Pty Ltd hosting services"
+    ],
+    [
+      "asn",
+      "^150393$",
+      "103.29.182.0/23-Layer Webhost Pvt. Limited"
+    ],
+    [
+      "asn",
+      "^134018$",
+      "103.42.12.0/23-Onbluecloud Infotech Pvt"
+    ],
+    [
+      "asn",
+      "^63612$",
+      "103.45.97.0/24-Shenzhen Qianhai bird cloud computing Co."
+    ],
+    [
+      "asn",
+      "^135921$",
+      "103.45.232.0/22-Maxserver Company Limited"
+    ],
+    [
+      "asn",
+      "^197981$",
+      "103.57.156.0/22-SAS Intercloud"
+    ],
+    [
+      "asn",
+      "^17213$",
+      "103.67.204.0/22-Supersafecloud LLC"
+    ],
+    [
+      "asn",
+      "^140920$",
+      "103.78.41.0/24-Hiclouds Singapore Pte.ltd."
+    ],
+    [
+      "asn",
+      "^146996$",
+      "103.91.205.0/24-Dexserver"
+    ],
+    [
+      "asn",
+      "^142592$",
+      "103.104.244.0/24-Greenhost BV"
+    ],
+    [
+      "asn",
+      "^137257$",
+      "103.106.64.0/23-Localhost NZ"
+    ],
+    [
+      "asn",
+      "^137823$",
+      "103.115.24.0/22-Cloudone"
+    ],
+    [
+      "asn",
+      "^137621$",
+      "103.118.158.0/23-Servercake Webhosting India Pvt"
+    ],
+    [
+      "asn",
+      "^134596$",
+      "103.121.28.0/23-Wicloud Pvt"
+    ],
+    [
+      "asn",
+      "^136746$",
+      "103.142.204.0/23-Xrcloud.net"
+    ],
+    [
+      "asn",
+      "^139736$",
+      "103.144.98.0/24-Apexhost Pty"
+    ],
+    [
+      "asn",
+      "^397651$",
+      "103.147.79.0/24-Sneaker-server"
+    ],
+    [
+      "asn",
+      "^132139$",
+      "103.149.62.0/23-Vecloud Limited"
+    ],
+    [
+      "asn",
+      "^140570$",
+      "103.150.118.0/23-Hong Kong Beecloud System Technology Services Limi"
+    ],
+    [
+      "asn",
+      "^140885$",
+      "103.152.196.0/23-Fadedservers Pty"
+    ],
+    [
+      "asn",
+      "^137428$",
+      "103.162.134.0/23-Quadcloud Pty"
+    ],
+    [
+      "asn",
+      "^140791$",
+      "103.163.118.0/23-Bkhost Technology Vietnam Joint Stock Company"
+    ],
+    [
+      "asn",
+      "^142002$",
+      "103.164.81.0/24-Scloud Pte"
+    ],
+    [
+      "asn",
+      "^210488$",
+      "103.170.73.0/24-Hyocloud Limited"
+    ],
+    [
+      "asn",
+      "^147134$",
+      "103.176.198.0/23-PT IndoWebhost Kreasi"
+    ],
+    [
+      "asn",
+      "^7387$",
+      "103.184.102.0/24-Onboardcloud Pte."
+    ],
+    [
+      "asn",
+      "^149552$",
+      "103.185.26.0/24-Nthcloud Llp"
+    ],
+    [
+      "asn",
+      "^149132$",
+      "103.186.64.0/23-Greencloud Limited Liability Company"
+    ],
+    [
+      "asn",
+      "^149101$",
+      "103.187.0.0/23-Bkcloud Company Limited"
+    ],
+    [
+      "asn",
+      "^59187$",
+      "103.192.198.0/23-Neevai Supercloud Pvt"
+    ],
+    [
+      "asn",
+      "^134340$",
+      "103.195.72.0/22-cloudsky superfast broadband and services Pvt"
+    ],
+    [
+      "asn",
+      "^204136$",
+      "103.230.141.0/24-Silent Ghost e.U."
+    ],
+    [
+      "asn",
+      "^133461$",
+      "103.231.224.0/24-Eqhost Sdn Bhd"
+    ],
+    [
+      "asn",
+      "^133143$",
+      "103.243.91.0/24-Medihost Solutions Pty"
+    ],
+    [
+      "asn",
+      "^137280$",
+      "104.166.180.0/23-Kingsoft cloud corporation limited"
+    ],
+    [
+      "asn",
+      "^63258$",
+      "104.244.164.0/22-Valuehost"
+    ],
+    [
+      "asn",
+      "^399883$",
+      "104.247.108.0/24-Arin-codeforhost"
+    ],
+    [
+      "asn",
+      "^395776$",
+      "107.163.80.0/24-Federal Online Group LLC"
+    ],
+    [
+      "asn",
+      "^400309$",
+      "107.179.77.0/24-Layer-host-sgp"
+    ],
+    [
+      "asn",
+      "^32780$",
+      "107.182.226.107/32-GMCHosting LLC Corporate"
+    ],
+    [
+      "asn",
+      "^19437$",
+      "108.165.133.0/24-Markahost Telekomunikasyon Ve Ticaret Limited Sirk"
+    ],
+    [
+      "asn",
+      "^48896$",
+      "109.95.152.0/21-dhosting.pl Sp. z o.o."
+    ],
+    [
+      "asn",
+      "^20860$",
+      "109.169.36.0/25-Cloud Unboxed Limited"
+    ],
+    [
+      "asn",
+      "^8477$",
+      "109.232.24.0/22-Echostar Studio Sp. z o.o."
+    ],
+    [
+      "asn",
+      "^203087$",
+      "109.248.32.0/24-PE Fedinyak Sergey Vyacheslavovich (gohost.kz)"
+    ],
+    [
+      "asn",
+      "^49490$",
+      "109.248.232.0/23-circle.cloud"
+    ],
+    [
+      "asn",
+      "^201009$",
+      "109.248.237.0/24-Centre of server systems Ltd"
+    ],
+    [
+      "asn",
+      "^131495$",
+      "123.58.18.0/24-Beijing nine cloud infinite network technology co."
+    ],
+    [
+      "asn",
+      "^206870$",
+      "130.117.122.0/24-Brightcloud Ltd"
+    ],
+    [
+      "asn",
+      "^57568$",
+      "130.185.120.0/22-Arvancloud Global Technologies L.L.C"
+    ],
+    [
+      "asn",
+      "^53231$",
+      "131.72.60.0/22-Grupohost Comunicacao Multimidia Ltda"
+    ],
+    [
+      "asn",
+      "^16466$",
+      "135.169.112.0/21-Avaya-onecloud"
+    ],
+    [
+      "asn",
+      "^16550$",
+      "137.75.122.0/24-Google-private-cloud"
+    ],
+    [
+      "asn",
+      "^19186$",
+      "137.83.91.0/24-Gmchosting LLC"
+    ],
+    [
+      "asn",
+      "^220$",
+      "137.241.0.0/16-Ooalc-hostnet"
+    ],
+    [
+      "asn",
+      "^264555$",
+      "138.0.160.0/24-Teccloud Servicos De Tecnologia Ahu Ltda."
+    ],
+    [
+      "asn",
+      "^262448$",
+      "138.118.172.0/22-Dialhost Internet Eireli"
+    ],
+    [
+      "asn",
+      "^209588$",
+      "141.98.9.0/24-Flyservers S.A."
+    ],
+    [
+      "asn",
+      "^52284$",
+      "142.202.136.0/24-Panamaserver.com"
+    ],
+    [
+      "asn",
+      "^199740$",
+      "146.19.162.0/24-Koopjeserver BV"
+    ],
+    [
+      "asn",
+      "^397812$",
+      "148.59.40.0/24-Lit-cloud-01"
+    ],
+    [
+      "asn",
+      "^205826$",
+      "149.22.112.0/22-Contenthost Limited"
+    ],
+    [
+      "asn",
+      "^55195$",
+      "149.112.126.0/24-Cira-cloud1"
+    ],
+    [
+      "asn",
+      "^394354$",
+      "149.112.127.0/24-Cira-cloud2"
+    ],
+    [
+      "asn",
+      "^36352$",
+      "154.16.112.0/24-Interhost Communication Solutions"
+    ],
+    [
+      "asn",
+      "^397373$",
+      "154.16.113.0/24-Interhost Communication Solutions"
+    ],
+    [
+      "asn",
+      "^135314$",
+      "154.18.168.0/24-Imcloud Technology Company Limited"
+    ],
+    [
+      "asn",
+      "^210535$",
+      "154.51.39.0/24-Association Lordhosting"
+    ],
+    [
+      "asn",
+      "^328400$",
+      "154.66.112.0/22-Powercloud"
+    ],
+    [
+      "asn",
+      "^142267$",
+      "154.91.4.0/24-Hong Kong Beecloud System Technology Services Limi"
+    ],
+    [
+      "asn",
+      "^40178$",
+      "156.236.85.0/24-Oceanblue-cloud"
+    ],
+    [
+      "asn",
+      "^206888$",
+      "156.241.135.0/24-Starcloud Global Pte."
+    ],
+    [
+      "asn",
+      "^38082$",
+      "156.241.139.0/24-True International Gateway Co."
+    ],
+    [
+      "asn",
+      "^394493$",
+      "159.117.208.0/22-Cdk-global-hosting-fb"
+    ],
+    [
+      "asn",
+      "^328137$",
+      "160.119.237.0/26-Ghostfibre"
+    ],
+    [
+      "asn",
+      "^139341$",
+      "162.14.44.0/22-ACE"
+    ],
+    [
+      "asn",
+      "^132839$",
+      "162.209.240.0/20-Power Line Datacenter"
+    ],
+    [
+      "asn",
+      "^40763$",
+      "162.212.244.0/23-Nusocloud-atl"
+    ],
+    [
+      "asn",
+      "^394851$",
+      "162.212.246.0/23-Nusocloud-den"
+    ],
+    [
+      "asn",
+      "^328037$",
+      "164.160.88.0/22-Elitehost"
+    ],
+    [
+      "asn",
+      "^398734$",
+      "165.140.100.0/22-Fleettel-fleethost-fleetinfo"
+    ],
+    [
+      "asn",
+      "^15333$",
+      "166.0.174.0/24-Thatonehost"
+    ],
+    [
+      "asn",
+      "^53356$",
+      "167.88.50.0/24-Hotlineservers LLC"
+    ],
+    [
+      "asn",
+      "^265503$",
+      "167.250.76.0/22-Iqcloud S.A. De C.v."
+    ],
+    [
+      "asn",
+      "^33229$",
+      "170.39.24.0/23-Any2cloud"
+    ],
+    [
+      "asn",
+      "^394470$",
+      "172.83.150.0/24-Ecloud360"
+    ],
+    [
+      "asn",
+      "^21859$",
+      "172.247.32.0/24-80host"
+    ],
+    [
+      "asn",
+      "^134176$",
+      "172.247.36.0/23-80host"
+    ],
+    [
+      "asn",
+      "^141391$",
+      "172.247.96.0/24-BIDA Fiber"
+    ],
+    [
+      "asn",
+      "^63452$",
+      "173.243.239.0/24-Velocihost"
+    ],
+    [
+      "asn",
+      "^23470$",
+      "174.136.201.0/24-Madcityservers LLC"
+    ],
+    [
+      "asn",
+      "^28666$",
+      "177.8.169.0/24-Hostlocation Ltda"
+    ],
+    [
+      "asn",
+      "^51698$",
+      "178.159.248.0/21-Activehost RU Ltd."
+    ],
+    [
+      "asn",
+      "^25369$",
+      "178.214.126.0/24-Hydra Communications Ltd"
+    ],
+    [
+      "asn",
+      "^62188$",
+      "178.217.233.0/24-Domeincloud B.V."
+    ],
+    [
+      "asn",
+      "^46337$",
+      "179.61.137.0/24-Website-hosting"
+    ],
+    [
+      "asn",
+      "^42567$",
+      "185.7.96.0/22-Mojohost B.v."
+    ],
+    [
+      "asn",
+      "^49981$",
+      "185.28.36.0/24-Prohost.be BVBA"
+    ],
+    [
+      "asn",
+      "^213035$",
+      "185.28.37.0/24-Prohost.be BVBA"
+    ],
+    [
+      "asn",
+      "^60422$",
+      "185.31.76.0/22-Powerhosting Aps"
+    ],
+    [
+      "asn",
+      "^199733$",
+      "185.48.4.0/22-Extrahost s.r.o"
+    ],
+    [
+      "asn",
+      "^15691$",
+      "185.53.68.0/22-Leonet4cloud srl"
+    ],
+    [
+      "asn",
+      "^201862$",
+      "185.61.132.0/22-VMhosts Ltd"
+    ],
+    [
+      "asn",
+      "^26338$",
+      "185.76.47.0/24-Hyve-managed-hosting"
+    ],
+    [
+      "asn",
+      "^61053$",
+      "185.80.130.160/29-Baltcloud.eu"
+    ],
+    [
+      "asn",
+      "^210398$",
+      "185.81.70.0/24-Vecloud Limited"
+    ],
+    [
+      "asn",
+      "^201094$",
+      "185.86.76.0/23-GMhost Ltd."
+    ],
+    [
+      "asn",
+      "^43260$",
+      "185.86.152.0/24-DGN Teknoloji"
+    ],
+    [
+      "asn",
+      "^197890$",
+      "185.94.252.0/23-Megaservers.de"
+    ],
+    [
+      "asn",
+      "^29140$",
+      "185.102.64.0/22-Hostserver GmbH"
+    ],
+    [
+      "asn",
+      "^211862$",
+      "185.105.9.0/24-Plataforma Multimedia De Operadores Sl"
+    ],
+    [
+      "asn",
+      "^57878$",
+      "185.114.225.0/24-Finalhosting"
+    ],
+    [
+      "asn",
+      "^61069$",
+      "185.115.32.0/22-Eqservers LLC"
+    ],
+    [
+      "asn",
+      "^201138$",
+      "185.125.229.0/24-JSC UCB"
+    ],
+    [
+      "asn",
+      "^209782$",
+      "185.126.203.0/24-Dade Pardazi Mobinhost Company Ltd"
+    ],
+    [
+      "asn",
+      "^15418$",
+      "185.132.32.0/22-Fasthosts Internet Limited"
+    ],
+    [
+      "asn",
+      "^204369$",
+      "185.137.52.0/22-Fibrasur Operadores S.L."
+    ],
+    [
+      "asn",
+      "^201500$",
+      "185.137.69.0/24-Manuel Carrascosa Leon"
+    ],
+    [
+      "asn",
+      "^205575$",
+      "185.137.104.0/22-Fibrasur Operadores S.L."
+    ],
+    [
+      "asn",
+      "^205959$",
+      "185.151.164.0/22-swiss cloud computing ag"
+    ],
+    [
+      "asn",
+      "^210294$",
+      "185.174.220.0/23-Private company Ukrainian hosting"
+    ],
+    [
+      "asn",
+      "^63473$",
+      "185.175.56.0/22-hosthatch.com"
+    ],
+    [
+      "asn",
+      "^35913$",
+      "185.202.102.0/24-Allcloud Limited"
+    ],
+    [
+      "asn",
+      "^57684$",
+      "185.205.212.0/22-Wasserversorgung Bayerischer Wald"
+    ],
+    [
+      "asn",
+      "^41821$",
+      "185.210.80.0/22-Episerver GmbH"
+    ],
+    [
+      "asn",
+      "^62071$",
+      "185.212.8.0/24-Datahost SRL"
+    ],
+    [
+      "asn",
+      "^51167$",
+      "185.213.25.0/24-hosthatch.com"
+    ],
+    [
+      "asn",
+      "^208006$",
+      "185.215.232.0/24-Arvancloud Global Technologies L.L.C"
+    ],
+    [
+      "asn",
+      "^205377$",
+      "185.220.156.0/22-cloudbit GmbH"
+    ],
+    [
+      "asn",
+      "^205055$",
+      "185.231.176.0/22-G2 server SK s.r.o."
+    ],
+    [
+      "asn",
+      "^42106$",
+      "185.231.221.0/24-Abelohost BV"
+    ],
+    [
+      "asn",
+      "^211971$",
+      "185.234.114.0/24-Goodhost.KZ LLP"
+    ],
+    [
+      "asn",
+      "^202585$",
+      "185.244.24.0/24-Forhosting"
+    ],
+    [
+      "asn",
+      "^59816$",
+      "185.251.224.0/24-38cloud"
+    ],
+    [
+      "asn",
+      "^15626$",
+      "185.253.0.0/24-Friendhosting LTD"
+    ],
+    [
+      "asn",
+      "^211003$",
+      "185.253.111.0/24-lifehost360.com OU"
+    ],
+    [
+      "asn",
+      "^262732$",
+      "186.232.144.0/24-Proserver Telecomunicacoes"
+    ],
+    [
+      "asn",
+      "^263511$",
+      "186.233.224.0/24-Saveincloud Hospedagem na Internet Ltda"
+    ],
+    [
+      "asn",
+      "^28239$",
+      "186.235.112.0/24-IWserver Internet Banda Larga Ltda."
+    ],
+    [
+      "asn",
+      "^262968$",
+      "186.237.57.0/24-Brascloud Ltda - Me"
+    ],
+    [
+      "asn",
+      "^52270$",
+      "190.61.204.0/23-Elserver S.r.l"
+    ],
+    [
+      "asn",
+      "^22724$",
+      "190.123.36.0/24-Panamaserver.com"
+    ],
+    [
+      "asn",
+      "^43043$",
+      "191.96.90.0/24-Interserver"
+    ],
+    [
+      "asn",
+      "^398360$",
+      "192.84.252.0/24-Virtuecloud"
+    ],
+    [
+      "asn",
+      "^268433$",
+      "192.91.254.0/24-Mgcloud Solucoes Em Tic Ltda - Me"
+    ],
+    [
+      "asn",
+      "^13926$",
+      "192.200.152.0/22-Reliablehosting.com"
+    ],
+    [
+      "asn",
+      "^63480$",
+      "192.245.158.0/23-Pscloudsvcs"
+    ],
+    [
+      "asn",
+      "^207298$",
+      "193.135.28.0/24-luckycloud GmbH"
+    ],
+    [
+      "asn",
+      "^136526$",
+      "193.239.150.0/24-Allcloud Limited"
+    ],
+    [
+      "asn",
+      "^210556$",
+      "194.26.199.0/24-SIA Baltichosting"
+    ],
+    [
+      "asn",
+      "^210555$",
+      "194.26.203.0/24-D2cloud Network Services (pty) Ltd"
+    ],
+    [
+      "asn",
+      "^202401$",
+      "194.39.204.0/22-Webhosting24 GmbH"
+    ],
+    [
+      "asn",
+      "^199785$",
+      "194.58.33.0/24-nuxt.cloud hosting provider"
+    ],
+    [
+      "asn",
+      "^213028$",
+      "194.87.74.0/24-DD webhosting B.V."
+    ],
+    [
+      "asn",
+      "^42711$",
+      "194.110.129.0/24-LLC Skycloud"
+    ],
+    [
+      "asn",
+      "^209482$",
+      "194.156.67.0/24-Foxcloud Communications Srl"
+    ],
+    [
+      "asn",
+      "^834$",
+      "194.163.93.0/25-Labixe.host"
+    ],
+    [
+      "asn",
+      "^48721$",
+      "194.165.16.0/23-Flyservers S.A."
+    ],
+    [
+      "asn",
+      "^57167$",
+      "195.14.122.0/24-Cityhost LLC Cityhost.ua"
+    ],
+    [
+      "asn",
+      "^39424$",
+      "195.80.139.0/24-Protocloud Plus LLC"
+    ],
+    [
+      "asn",
+      "^58180$",
+      "195.206.120.0/24-Fullwebserver S.r.l."
+    ],
+    [
+      "asn",
+      "^48031$",
+      "195.211.40.0/23-Xserver"
+    ],
+    [
+      "asn",
+      "^48533$",
+      "195.211.108.0/22-LLC tanhost"
+    ],
+    [
+      "asn",
+      "^61818$",
+      "201.175.60.91/32-Netcloud Telecom"
+    ],
+    [
+      "asn",
+      "^23869$",
+      "202.46.180.0/24-InternetNZ infrastructure for NZ TLD SRS and DNS s"
+    ],
+    [
+      "asn",
+      "^141466$",
+      "202.181.0.0/23-Digisigma Pte."
+    ],
+    [
+      "asn",
+      "^7540$",
+      "202.181.171.0/24-38cloud"
+    ],
+    [
+      "asn",
+      "^58299$",
+      "204.11.2.0/24-Peerhost"
+    ],
+    [
+      "asn",
+      "^36536$",
+      "204.11.212.0/22-Enterhost"
+    ],
+    [
+      "asn",
+      "^11110$",
+      "204.13.52.0/22-Servercloud"
+    ],
+    [
+      "asn",
+      "^33569$",
+      "204.14.120.0/23-Allhostshop.com"
+    ],
+    [
+      "asn",
+      "^400716$",
+      "204.15.42.0/24-Redmond-hosting"
+    ],
+    [
+      "asn",
+      "^400328$",
+      "204.76.203.0/24-Intelligence-hosting-llc"
+    ],
+    [
+      "asn",
+      "^15067$",
+      "205.166.214.0/24-R2i-cloud"
+    ],
+    [
+      "asn",
+      "^18619$",
+      "206.166.213.0/24-Nusocloud"
+    ],
+    [
+      "asn",
+      "^62633$",
+      "207.231.110.0/23-Serverdime-servercheap-hostrush"
+    ],
+    [
+      "asn",
+      "^25642$",
+      "208.66.40.0/24-Spiderhost"
+    ],
+    [
+      "asn",
+      "^7819$",
+      "208.66.41.0/24-Global IP Networks"
+    ],
+    [
+      "asn",
+      "^40399$",
+      "208.75.8.0/23-Masergy-cloud-communications"
+    ],
+    [
+      "asn",
+      "^40476$",
+      "209.142.64.0/22-Scalahosting"
+    ],
+    [
+      "asn",
+      "^19853$",
+      "209.172.2.0/24-Orangehost"
+    ],
+    [
+      "asn",
+      "^12732$",
+      "212.21.71.0/24-D-hosting die Rackspace & Connectivity GmbH"
+    ],
+    [
+      "asn",
+      "^199725$",
+      "212.21.93.0/24-D-hosting die Rackspace & Connectivity GmbH"
+    ],
+    [
+      "asn",
+      "^35700$",
+      "212.142.161.0/24-Bilbao Bizkaia Kutxa"
+    ],
+    [
+      "asn",
+      "^209956$",
+      "213.238.166.0/24-Ekiphost Bilisim Teknolojileri"
+    ],
+    [
+      "asn",
+      "^397834$",
+      "216.147.112.0/22-Ghost Autonomy Inc."
+    ],
+    [
+      "asn",
+      "^7001$",
+      "216.213.16.0/21-Metacloud LLC"
+    ],
+    [
+      "asn",
+      "^26666$",
+      "216.219.95.0/24-Interserver"
+    ],
+    [
+      "asn",
+      "^12266$",
+      "216.229.240.0/24-Srn-hosting"
+    ],
+    [
+      "asn",
+      "^29119$",
+      "217.61.64.0/20-ORG-SNS2-RIPE"
+    ],
+    [
+      "asn",
+      "^211211$",
+      "217.78.239.0/25-GlavTel LLC"
+    ],
+    [
+      "asn",
+      "^25267$",
+      "217.114.128.0/20-Colegio de Registradores de la Propiedad y Mercant"
+    ]
+  ]
+}

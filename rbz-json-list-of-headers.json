@@ -1,0 +1,5147 @@
+{
+  "name": "Bad User Agent",
+  "id": "my-rbz-bad-user-agent",
+  "_id": "my-rbz-bad-user-agent",
+  "active": false,
+  "mdate": "2023-05-08 14:30:19.261972",
+  "source": "https://storage.googleapis.com/rbz-test-auto-acl/acls_v5/rbz-bad-user-agent.json",
+  "tags": [
+    "bad-user-agent",
+    "reblaze"
+  ],
+  "rule": {
+    "relation": "OR",
+    "entries": [
+      [
+        "headers",
+        [
+          "user-agent",
+          "01h4x.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "360Spider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "404checker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "404enemy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "80legs"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ADmantX"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AIBOT"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ALittle Client"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ASPSeek"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Abonti"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Aboundex"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Aboundexbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Acunetix"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AdsTxtCrawlerTP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AfD-Verbotsverfahren"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AhrefsBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AiHitBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Aipbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Alexibot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AllSubmitter"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Alligator"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AlphaBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Anarchie"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Anarchy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Anarchy99"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ankit"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Anthill"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Apexoo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Aspiegel"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Asterias"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Atomseobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Attach"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AwarioRssBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "AwarioSmartBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BBBike"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BDCbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BDFetch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BLEXBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BackDoorBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BackStreet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BackWeb"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Backlink-Ceck"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BacklinkCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Badass"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Bandit"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Barkrowler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BatchFTP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Battleztar Bazinga"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BetaBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Bigfoot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Bitacle"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BlackWidow"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Black Hole"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Blackboard"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Blow"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BlowFish"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Boardreader"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Bolt"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BotALot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Brandprotect"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Brandwatch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Buck"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Buddy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BuiltBotTough"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BuiltWith"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Bullseye"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BunnySlippers"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "BuzzSumo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CATExplorador"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CCBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CODE87"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CSHttp"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Calculon"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CazoodleBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Cegbfeieh"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CensysInspect"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CheTeam"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CheeseBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CherryPicker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ChinaClaw"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Chlooe"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Citoid"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Claritybot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Cliqzbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Cloud mapping"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Cocolyzebot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Cogentbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Collector"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Copier"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CopyRightCheck"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Copyscape"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Cosmos"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Craftbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Crawling at Home Project"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CrazyWebCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Crescent"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CrunchBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Curious"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Custo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "CyotekWebCopy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DBLBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DIIbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DSearch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DTS Agent"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DataCha0s"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DatabaseDriverMysqli"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Demon"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Deusu"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Devil"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Digincore"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DigitalPebble"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Dirbuster"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Disco"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Discobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Discoverybot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Dispatch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DittoSpyder"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DnBCrawler-Analytics"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DnyzBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DomCopBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DomainAppender"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DomainCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DomainSigmaCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "DomainStatsBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Domains Project"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Dotbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Download Wonder"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Dragonfly"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Drip"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ECCP/1.0"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "EMail Siphon"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "EMail Wolf"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "EasyDL"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ebingbong"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ecxi"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "EirGrabber"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "EroCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Evil"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Exabot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Express WebPictures"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ExtLinksBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Extractor"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ExtractorPro"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Extreme Picture Finder"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "EyeNetIE"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ezooms"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "FDM"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "FHscan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "FemtosearchBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Fimap"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Firefox/7.0"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "FlashGet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Flunky"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Foobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Freeuploader"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "FrontPage"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Fuzz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "FyberSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Fyrebot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "G-i-g-a-b-o-t"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GT::WWW"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GalaxyBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Genieo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GermCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GetRight"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GetWeb"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Getintent"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Gigabot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Go!Zilla"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Go-Ahead-Got-It"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GoZilla"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Gotit"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GrabNet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Grabber"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Grafula"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GrapeFX"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GrapeshotCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "GridBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HEADMasterSEO"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HMView"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HTMLparser"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HTTP::Lite"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HTTrack"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Haansoft"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HaosouSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Harvest"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Havij"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Heritrix"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Hloader"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HonoluluBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Humanlinks"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "HybridBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "IDBTE4M"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "IDBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "IRLbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Iblog"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Id-search"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "IlseBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Image Fetch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Image Sucker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "IndeedBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Indy Library"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "InfoNaviRobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "InfoTekies"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Intelliseek"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "InterGET"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "InternetSeer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Internet Ninja"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Iria"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Iskanie"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "IstellaBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "JOC Web Spider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "JamesBOT"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Jbrofuzz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "JennyBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "JetCar"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Jetty"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "JikeSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Joomla"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Jorgee"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "JustView"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Jyxobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Kenjin Spider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Keybot Translation-Search-Machine"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Keyword Density"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Kinza"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Kozmosbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LNSpiderguy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LWP::Simple"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Lanshanbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Larbin"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Leap"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LeechFTP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LeechGet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LexiBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Lftp"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LibWeb"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Libwhisker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LieBaoFast"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Lightspeedsystems"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Likse"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinkScan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinkWalker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Linkbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinkextractorPro"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinkpadBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinksManager"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinqiaMetadataDownloaderBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinqiaRSSBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "LinqiaScrapeBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Lipperhey"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Lipperhey Spider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Litemage_walker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Lmspider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ltx71"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MFC_Tear_Sample"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MIDown tool"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MIIxpc"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MJ12bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MQQBrowser"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MSFrontPage"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MSIECrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MTRobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mag-Net"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Magnet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mail.RU_Bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Majestic-SEO"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Majestic12"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Majestic SEO"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MarkMonitor"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MarkWatch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mass Downloader"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Masscan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mata Hari"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MauiBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mb2345Browser"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MeanPath Bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Meanpathbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mediatoolkitbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MegaIndex.ru"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Metauri"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MicroMessenger"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Microsoft Data Access"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Microsoft URL Control"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Minefield"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mister PiX"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Moblie Safari"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mojeek"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mojolicious"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "MolokaiBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Morfeus Fucking Scanner"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mozlila"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Mr.4x3"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Msrabot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Musobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NICErsPRO"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NPbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Name Intelligence"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nameprotect"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Navroad"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NearSite"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Needle"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nessus"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NetAnts"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NetLyzer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NetMechanic"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NetSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NetZIP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Net Vampire"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Netcraft"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nettrack"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Netvibes"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NextGenSearchBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nibbler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Niki-bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nikto"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "NimbleCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nimbostratus"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ninja"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nmap"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nuclei"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Nutch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Octopus"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Offline Explorer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Offline Navigator"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OnCrawl"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OpenLinkProfiler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OpenVAS"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Openfind"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Openvas"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OrangeBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OrangeSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OutclicksBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "OutfoxBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PECL::HTTP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PHPCrawl"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "POE-Component-Client-HTTP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PageAnalyzer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PageGrabber"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PageScorer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PageThing.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Page Analyzer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pandalytics"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Panscient"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Papa Foto"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pavuk"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PeoplePal"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Petalbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pi-Monster"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Picscout"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Picsearch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PictureFinder"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Piepmatz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pimonster"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pixray"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PleaseCrawl"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pockey"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ProPowerBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ProWebWalker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Probethenet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Proximic"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Psbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pu_iN"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Pump"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PxBroker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "PyCurl"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "QueryN Metasearch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Quick-Crawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RSSingBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RankActive"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RankActiveLinkBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RankFlex"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RankingBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RankingBot2"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Rankivabot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RankurBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Re-re"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ReGet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RealDownload"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Reaper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RebelMouse"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Recorder"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RedesScrapy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RepoMonkey"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Ripper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "RocketCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Rogerbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SBIder"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SEOkicks"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SEOkicks-Robot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SEOlyticsCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SEOprofiler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SEOstats"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SISTRIX"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SMTBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SalesIntelligent"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ScanAlert"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Scanbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ScoutJet"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Scrapy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Screaming"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ScreenerBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ScrepyBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Searchestate"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SearchmetricsBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Seekport"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SeekportBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SemanticJuice"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Semrush"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SemrushBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SentiBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SenutoBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SeoSiteCheckup"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SeobilityBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Seomoz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Shodan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Siphon"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SiteCheckerBotCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SiteExplorer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SiteLockSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SiteSnagger"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SiteSucker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Site Sucker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sitebeam"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Siteimprove"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sitevigil"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SlySearch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SmartDownload"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Snake"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Snapbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Snoopy"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SocialRankIOBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sociscraper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sogou web spider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sosospider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sottopop"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SpaceBison"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Spammen"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SpankBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Spanner"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Spbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Spinn3r"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SputnikBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sqlmap"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sqlworm"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sqworm"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Steeler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Stripper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sucker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Sucuri"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SuperBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SuperHTTP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Surfbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "SurveyBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Suzuran"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Swiftbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Szukacz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "T0PHackTeam"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "T8Abot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Teleport"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "TeleportPro"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Telesoft"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Telesphoreo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Telesphorep"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "TheNomad"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "The Intraformant"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Thumbor"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "TightTwatBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Titan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Toata"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Toweyabot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Tracemyfile"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Trendiction"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Trendictionbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "True_Robot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Turingos"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Turnitin"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "TurnitinBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "TwengaBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Twice"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Typhoeus"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "URLy.Warning"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "URLy Warning"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "UnisterBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Upflow"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "V-BOT"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "VB Project"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "VCI"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Vacuum"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Vagabondo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "VelenPublicWebCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "VeriCiteCrawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "VidibleScraper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Virusdie"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "VoidEYE"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Voil"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Voltron"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WASALive-Bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WBSearchBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WEBDAV"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WISENutbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WPScan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WWW-Collector-E"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WWW-Mechanize"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WWW::Mechanize"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WWWOFFLE"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Wallpapers"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Wallpapers/3.0"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WallpapersHD"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WeSEE"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebAuto"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebBandit"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebCollage"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebCopier"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebEnhancer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebFetch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebFuck"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebGo IS"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebImageCollector"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebLeacher"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebPix"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebReaper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebSauger"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebStripper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebSucker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebWhacker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebZIP"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Auto"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Collage"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Enhancer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Fetch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Fuck"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Pix"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Sauger"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Web Sucker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Webalta"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebmasterWorldForumBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Webshag"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebsiteExtractor"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WebsiteQuester"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Website Quester"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Webster"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Whack"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Whacker"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Whatweb"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Who.is Bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Widow"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WinHTTrack"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "WiseGuys Robot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Wonderbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Woobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Wotbox"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Wprecon"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Xaldon WebSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Xaldon_WebSpider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Xenu"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "YoudaoBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Zade"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Zauba"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Zermelo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Zeus"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "Zitebot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ZmEu"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ZoomBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ZoominfoBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ZumBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ZyBorg"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "adscanner"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "archive.org_bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "arquivo-web-crawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "arquivo.pt"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "autoemailspider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "backlink-check"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "cah.io.community"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "check1.exe"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "clark-crawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "coccocbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "cognitiveseo"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "com.plumanalytics"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "crawl.sogou.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "crawler.feedback"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "crawler4j"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "dataforseo.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "dataforseobot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "demandbase-bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "domainsproject.org"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "eCatch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "evc-batch"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "facebookscraper"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "gopher"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "heritrix"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "instabid"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "internetVista monitor"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ips-agent"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "isitwp.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "iubenda-radar"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "linkdexbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "lwp-request"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "lwp-trivial"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "magpie-crawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "meanpathbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "mediawords"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "muhstik-scan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "netEstate NE Crawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "oBot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "page scorer"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "pcBrowser"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "plumanalytics"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "polaris version"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "probe-image-size"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ripz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "s1z.ru"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "satoristudio.net"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "scalaj-http"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "scan.lol"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "seobility"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "seocompany.store"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "seoscanners"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "seostar"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "serpstatbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "sexsearcher"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "sitechecker.pro"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "siteripz"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "sogouspider"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "sp_auditbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "spyfu"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "sysscan"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "tAkeOut"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "trendiction.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "trendiction.de"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "ubermetrics-technologies.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "voyagerx.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "webgains-bot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "webmeup-crawler"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "webpros.com"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "webprosbot"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "x09Mozilla"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "x22Mozilla"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "xpymep1.exe"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "zauba.io"
+        ],
+        "Bad User Agent"
+      ],
+      [
+        "headers",
+        [
+          "user-agent",
+          "zgrab"
+        ],
+        "Bad User Agent"
+      ]
+    ]
+  },
+  "action": "action-monitor",
+  "description": "Bad User Agents"
+}
